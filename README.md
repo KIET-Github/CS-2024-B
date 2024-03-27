@@ -8,7 +8,6 @@ This repository contains the details of students under following faculty mentor 
   <li>Mr. Akash Goel</li>
   <li>Mr Anurag Mishra</li>
   <li>Ms. Arti Sharma</li>
-  <li>Ms. Arushi Gupta</li>
   <li>Mr. Pawan Kumar Pal</li>
   <li>Mr. Pradeep Tyagi</li>
   <li>MS. Shivani</li>
@@ -25,166 +24,199 @@ This repository contains the details of students under following faculty mentor 
 
 <b>#Student Data</b><br>
 Folders of following project Ids has been created.<br>
-		<table>
-		<thead>
-			<tr>
-				<th>S. No.</th>
-				<th>Project ID</th>
-				<th>Guide Name</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>&nbsp;1.</td>
-				<td>&nbsp; PCS24-42</td>
-				<td>&nbsp;MS. Akanksha&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;2.</td>
-				<td>PCS24-68</td>
-				<td>MS. Akanksha<br><table id="demoTable" style="color: rgb(74, 74, 74); border: 1px solid rgb(179, 173, 173); padding: 5px;">
-		<tbody>
-			<tr>
-				<td><br></td>
-			</tr>
-		</tbody></table><span style="font-size: 1em; font-weight: 400; text-align: inherit;">&nbsp;</span></td>
-			</tr>
-			<tr>
-				<td>&nbsp;3.</td>
-				<td>&nbsp;PCS24-69</td>
-				<td>MS. Akanksha&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;4.</td>
-				<td>PCS23-24&nbsp;</td>
-				<td>&nbsp;Mr. Akash Goel</td>
-			</tr>
-			<tr>
-				<td>5.&nbsp;</td>
-				<td>&nbsp;PCS24-35<br></td>
-				<td>Mr. Akash Goel&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;6.</td>
-				<td>&nbsp;PCS24-56</td>
-				<td>Mr. Akash Goel&nbsp;</td>
-			</tr>
-			<tr>
-				<td>7.&nbsp;</td>
-				<td>PCS24- 6</td>
-				<td>Mr. Anurag Mishra&nbsp;</td>
-			</tr>
-			<tr>
-				<td>8.&nbsp;</td>
-				<td>&nbsp;PCS24-16</td>
-				<td>&nbsp;MS. SHIVANI</td>
-			</tr>
-			<tr>
-				<td>&nbsp;9.</td>
-				<td>&nbsp;</td>
-				<td><span style="font-style: normal; font-weight: 400;"></span>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>10.&nbsp;</td>
-				<td>&nbsp;PCS24-50</td>
-				<td><span style="font-style: normal; font-weight: 400;">MS. Arushi Gupta</span>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>11.&nbsp;</td>
-				<td>&nbsp;PCS24-57</td>
-				<td><span style="font-style: normal; font-weight: 400;">Mr. Anurag Mishra</span>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;12.</td>
-				<td>&nbsp;PCS24-15</td>
-				<td>MS. Arti Sharma&nbsp;</td>
-			</tr>
-			<tr>
-				<td>13.&nbsp;</td>
-				<td>&nbsp;PCS24-46</td>
-				<td><span style="font-style: normal; font-weight: 400;">MS. Arti Sharma</span>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;14.</td>
-				<td>&nbsp;PCS24-47</td>
-				<td><span style="font-style: normal; font-weight: 400;">MS. Arti Sharma</span>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>15.</td>
-				<td>PCS24- 18</td>
-				<td><div style="text-align: left;"><ul dir="auto" style="box-sizing: border-box; padding-left: 2em; margin-bottom: 16px; color: rgb(36, 41, 47); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;;"><li style="box-sizing: border-box; margin-top: 0.25em;">Ms. Arushi Gupta</li></ul></div><font color="#313030">&nbsp;</font></td>
-			</tr>
-			<tr>
-				<td>16.&nbsp;</td>
-				<td>PCS24-31</td>
-				<td>MS. Arushi Gupta&nbsp;</td>
-			</tr>
-			<tr>
-				<td>18.&nbsp;</td>
-				<td>PCS24- 11</td>
-				<td>MR. Pawan Kumar Pal&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;19.</td>
-				<td>PCS24- 53</td>
-				<td><span style="font-style: normal; font-weight: 400;">MR. Pawan Kumar Pal</span>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;20.</td>
-				<td>PCS24- 60</td>
-				<td><span style="font-style: normal; font-weight: 400;">MR. Pawan Kumar Pal</span>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;21.</td>
-				<td>PCS24- 72</td>
-				<td><span style="font-style: normal; font-weight: 400;">MR. Pawan Kumar Pal</span>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;22.</td>
-				<td>PCS24- 22</td>
-				<td>Mr. Pradeep Tyagi&nbsp;</td>
-			</tr>
-			<tr>
-				<td>23.&nbsp;</td>
-				<td>PCS24- 58</td>
-				<td><span style="font-style: normal; font-weight: 400;">Mr. Pradeep Tyagi</span>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;24.</td>
-				<td>&nbsp;PCS24-74</td>
-				<td><span style="font-style: normal; font-weight: 400;">Mr. Pradeep Tyagi</span>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;25.</td>
-				<td>&nbsp;PCS24-19</td>
-				<td>MS. Shivani&nbsp;</td>
-			</tr>
-			<tr>
-				<td>26.&nbsp;</td>
-				<td>&nbsp;PCS24-21</td>
-				<td><span style="font-style: normal; font-weight: 400;">MS. Shivani</span>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;27.</td>
-				<td>&nbsp;PCS24-37</td>
-				<td><span style="font-style: normal; font-weight: 400;">MS. Shivani</span>&nbsp;</td>
-			</tr>
-		</tbody>
-	</table>
-<TABLE>
-	<tr>
-		<td> 28 </td>
-		<td> PCS24-38 </td>
-		<td> MR ANURAG MISHRA </td>
-	</tr>
-	<tr>
-		<td> 29 </td>
-		<td> PCS24-05 </td>
-		<td> MR ANURAG MISHRA </td>
-	</tr>
-	<tr>
-		<td> 30 </td>
-		<td> PCS24-40 </td>
-		<td> MR ANURAG MISHRA </td>
-	</tr>
-</TABLE>
+<table border="1">
+  <thead>
+    <tr>
+  <td>Serial No</td>
+  <td>PCS Code</td>
+  <td>Name</td>
+</tr>
+
+<tr>
+  <td>1</td>
+  <td>PCS24-40</td>
+  <td>Ms. Akanksha</td>
+</tr>
+
+<tr>
+  <td>2</td>
+  <td>PCS24-65</td>
+  <td>Ms. Akanksha</td>
+</tr>
+
+<tr>
+  <td>3</td>
+  <td>PCS24-66</td>
+  <td>Ms. Akanksha</td>
+</tr>
+
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>4</td>
+  <td>PCS24-23</td>
+  <td>Mr. Akash Goel</td>
+</tr>
+
+<tr>
+  <td>5</td>
+  <td>PCS24-33</td>
+  <td>Mr. Akash Goel</td>
+</tr>
+
+<tr>
+  <td>6</td>
+  <td>PCS24-53</td>
+  <td>Mr. Akash Goel</td>
+</tr>
+
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>7</td>
+  <td>PCS24-04</td>
+  <td>Mr. Anurag Mishra</td>
+</tr>
+
+<tr>
+  <td>8</td>
+  <td>PCS24-31</td>
+  <td>Mr. Anurag Mishra</td>
+</tr>
+
+<tr>
+  <td>9</td>
+  <td>PCS24-38</td>
+  <td>Mr. Anurag Mishra</td>
+</tr>
+
+<tr>
+  <td>10</td>
+  <td>PCS24-54</td>
+  <td>Mr. Anurag Mishra</td>
+</tr>
+
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+    <td>11</td>
+    <td>PCS24-14</td>
+    <td>Ms. Arti Sharma</td>
+</tr>
+
+<tr>
+    <td>12</td>
+    <td>PCS24-44</td>
+    <td>Ms. Arti Sharma</td>
+</tr>
+
+<tr>
+    <td>13</td>
+    <td>PCS24-45</td>
+    <td>Ms. Arti Sharma</td>
+</tr>
+
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+    <td>14</td>
+    <td>PCS24-10</td>
+    <td>Mr Pawan Kumar Pal</td>
+</tr>
+
+<tr>
+    <td>15</td>
+    <td>PCS24-51</td>
+    <td>Mr Pawan Kumar Pal</td>
+</tr>
+
+<tr>
+    <td>16</td>
+    <td>PCS24-57</td>
+    <td>Mr Pawan Kumar Pal</td>
+</tr>
+
+<tr>
+    <td>17</td>
+    <td>PCS24-69</td>
+    <td>Mr Pawan Kumar Pal</td>
+</tr>
+
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+    <td>18</td>
+    <td>PCS24-21</td>
+    <td>Mr Pardeep Tyagi</td>
+</tr>
+
+<tr>
+    <td>19</td>
+    <td>PCS24-55</td>
+    <td>Mr Pardeep Tyagi</td>
+</tr>
+
+<tr>
+    <td>20</td>
+    <td>PCS24-70</td>
+    <td>Mr Pardeep Tyagi</td>
+</tr>
+
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+    <td>21</td>
+    <td>PCS24-12</td>
+    <td>Ms. Shivani</td>
+</tr>
+
+<tr>
+    <td>22</td>
+    <td>PCS24-15</td>
+    <td>Ms. Shivani</td>
+</tr>
+
+<tr>
+    <td>23</td>
+    <td>PCS24-18</td>
+    <td>Ms. Shivani</td>
+</tr>
+
+<tr>
+    <td>24</td>
+    <td>PCS24-20</td>
+    <td>Ms. Shivani</td>
+</tr>
+
+<tr>
+    <td>25</td>
+    <td>PCS24-35</td>
+    <td>Ms. Shivani</td>
+</tr>
+
+    
+  <tbody>
+  
+
+  </tbody>
+</table>

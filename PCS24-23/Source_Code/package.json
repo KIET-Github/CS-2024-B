@@ -1,0 +1,33 @@
+{
+  "name": "votingproject",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.0",
+    "@vercel/speed-insights": "^1.0.10",
+    "axios": "^0.27.2",
+    "dotenv": "^16.3.1",
+    "eslint-config-next": "^13.5.6",
+    "ethers": "^5.6.9",
+    "ipfs-http-client": "^57.0.3",
+    "next": "^13.5.6",
+    "process": "^0.11.10",
+    "react": "^18.2.0",
+    "react-countdown": "^2.3.2",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.2",
+    "react-icons": "^4.4.0",
+    "vercel": "^33.5.1",
+    "web3modal": "^1.9.8"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "hardhat": "^2.20.1"
+  }
+}

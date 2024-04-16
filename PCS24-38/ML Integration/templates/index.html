@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Mental Health FAQ</title>
+</head>
+
+<body>
+    <header>
+        <h1>{{ message }}</h1>
+    </header>
+    <main>
+        <h2>Ask a Question:</h2>
+        <form action="/api/FAQ/" method="GET">
+            <input type="text" name="question" placeholder="Enter your question" required>
+            <button type="submit">Submit</button>
+        </form>
+        <div class="answer">
+            <p>Answer:</p>
+            <p id="answer-text"></p>
+        </div>
+    </main>
+    <script>
+        document.querySelector('form').addEventListener('submit', async function (e) {
+            e.preventDefault();
+            const question = encodeURIComponent(e.target.question.value);
+            const response = await fetch(`/api/FAQ/${question}`);
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            const data = await response.json();
+            document.querySelector('#answer-text').textContent = data.answer;
+        });
+    </script>
+</body>
+
+</html>

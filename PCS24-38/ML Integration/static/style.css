@@ -1,0 +1,75 @@
+/* Import Tailwind CSS */
+@import "~tailwindcss/dist/tailwind.min.css";
+
+/* Define your custom styles */
+.my-custom-class {
+  color: red;
+  font-size: 16px;
+}
+
+/* Apply styles to specific elements */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #3498db;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  font-size: 24px;
+}
+
+form {
+  margin-top: 20px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button[type="submit"] {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.answer {
+  margin-top: 20px;
+}
+
+p {
+  font-size: 18px;
+}
+
+#answer-text {
+  font-weight: bold;
+  color: #333;
+}

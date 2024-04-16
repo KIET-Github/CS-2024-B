@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>840856747821-bmd8a79hv3r3ikaqniv55id3e7ct2ouo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.840856747821-bmd8a79hv3r3ikaqniv55id3e7ct2ouo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>840856747821-68uj148d21kgdrbpbc82mhmcgp24pivh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBRaTk7_mmuydYK_HBLGKKCdc8CBPDyprk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>840856747821</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pratyush.embelia</string>
+	<key>PROJECT_ID</key>
+	<string>embelia-367713</string>
+	<key>STORAGE_BUCKET</key>
+	<string>embelia-367713.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:840856747821:ios:2f189f84089f8e1a26dda4</string>
+	<key>DATABASE_URL</key>
+	<string>https://embelia-367713-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
